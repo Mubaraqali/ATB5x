@@ -1,7 +1,7 @@
 package src.december31;
 
-public class Lab002 {
+public class Lab003 {
     public static void main(String[] args) {
-        System.out.println("git");
+        System.out.println("for Git");
     }
 }
